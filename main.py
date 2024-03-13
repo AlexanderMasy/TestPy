@@ -8,6 +8,8 @@ def clfewr(eqwe):
 
 def clfewr(eqwe):
     print("weqeqe")
+def Func3(Func3):
+    print("Func3")
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, {name}')
